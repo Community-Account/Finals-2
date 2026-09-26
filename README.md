@@ -1,6 +1,6 @@
 # Budget Tracker System
 
-This is a simple Budget Tracker made with HTML and JavaScript.
+This is a simple Budget Tracker made with HTML and JavaScript and CSS.
 
 ## What it does
 
@@ -15,10 +15,11 @@ This is a simple Budget Tracker made with HTML and JavaScript.
 
 - index.html - the page structure
 - script.js - all the logic
+-style.css - all UI
 
 ## How to run
 
-1. Download both files and keep them in the same folder.
+1. Download all 3 files and keep them in the same folder.
 2. Open index.html in your browser.
 3. Start adding budget and expenses.
 
@@ -30,6 +31,4 @@ This is a simple Budget Tracker made with HTML and JavaScript.
 - The expense table is updated every time you add or remove an expense.
 
 ## Notes
-
-- No CSS is used, so it looks plain.
 - Code is written in simple JavaScript (var, functions, loops) for practice.
